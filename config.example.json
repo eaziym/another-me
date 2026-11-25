@@ -1,0 +1,12 @@
+{
+  "_about": "Copy to ~/.config/anotherme/config.json and keep only the settings you want. Every one is optional.",
+
+  "_telegram_dir": "Where your Telegram login is kept. `python3 context/server.py telegram-login` makes one in the default place.",
+  "telegram_dir": "~/.config/anotherme/telegram",
+
+  "_projects_dir": "Where jobs find a project by its folder name.",
+  "projects_dir": "~/dev",
+
+  "_local_model": "Run every model call on a model on this Mac instead of Claude (docs/models.md). Delete this setting to use Claude.",
+  "local_model": {"url": "http://127.0.0.1:11434", "model": "qwen3:8b", "token": "ollama"}
+}
