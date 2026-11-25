@@ -9,10 +9,10 @@ might be the one on your phone, your own Claude Code sessions, or a coding job i
 
 It was built for a life split between Chinese and Western apps, where no single assistant sees both.
 
-[![The two-minute demo: the agent reads a WeChat chat, a Chrome dashboard and a Slack thread on the Mac](docs/media/demo-poster.jpg)](https://cdn.jsdelivr.net/gh/eaziym/another-me@main/docs/media/another-me-demo.mp4)
+https://github.com/user-attachments/assets/2c042806-e338-4de5-a3a3-f4c816cc718e
 
-▶ [Watch the two-minute demo](https://cdn.jsdelivr.net/gh/eaziym/another-me@main/docs/media/another-me-demo.mp4)
-([file](docs/media/another-me-demo.mp4)), with sound and English and Chinese captions. Every person, chat and figure
+The two-minute demo, with sound and English and Chinese captions. If the player does not show,
+[watch it here](https://cdn.jsdelivr.net/gh/eaziym/another-me@main/docs/media/another-me-demo.mp4) ([file](docs/media/another-me-demo.mp4)). Every person, chat and figure
 in it is made up, and product names belong to their owners.
 
 > [!NOTE]
