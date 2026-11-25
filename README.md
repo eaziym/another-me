@@ -9,6 +9,12 @@ might be the one on your phone, your own Claude Code sessions, or a coding job i
 
 It was built for a life split between Chinese and Western apps, where no single assistant sees both.
 
+[![The two-minute demo: the agent reads a WeChat chat, a Chrome dashboard and a Slack thread on the Mac](docs/media/demo-poster.jpg)](https://cdn.jsdelivr.net/gh/eaziym/another-me@main/docs/media/another-me-demo.mp4)
+
+▶ [Watch the two-minute demo](https://cdn.jsdelivr.net/gh/eaziym/another-me@main/docs/media/another-me-demo.mp4)
+([file](docs/media/another-me-demo.mp4)), with sound and English and Chinese captions. Every person, chat and figure
+in it is made up, and product names belong to their owners.
+
 > [!NOTE]
 > Early software, built for one person's Mac and now opened up. macOS only. Setup is by hand and takes an
 > afternoon; [docs/install.md](docs/install.md) walks through it. Expect rough edges.
